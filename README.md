@@ -35,7 +35,7 @@
 
 ## 프로젝트 기획 및 세부 일정
 
-<img align="left" width="700px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88.PNG"  />
+<img width="700px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88.PNG"  />
 
 </br></br>
 
