@@ -106,17 +106,17 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 * 하나의 루트 사용자로 IAM 사용자를 여럿으로 나누어 하나의 애플리케이션을 관리
   * 팀원 모두 프로젝트를 통해 AWS 서비스를 이용해보고 배우기위해 권한은 동등하게 배분
 
-<img  width="400" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\AWS-IAM(group).PNG" alt="AWS-IAM(group)" />
+<img  width="400" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/AWS-IAM(group).PNG" alt="AWS-IAM(group)" />
 
-<img width="400px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\AWS-IAM(관리형정책).PNG" alt="AWS-IAM(관리형정책)" />
+<img width="400px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/AWS-IAM(%EA%B4%80%EB%A6%AC%ED%98%95%EC%A0%95%EC%B1%85).PNG" alt="AWS-IAM(관리형정책)" />
 
-<img width="400px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\AWS-IAM(인라인정책).PNG" alt="AWS-IAM(인라인정책)" />
+<img width="400px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/AWS-IAM(%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%A0%95%EC%B1%85).PNG" alt="AWS-IAM(인라인정책)" />
 
 ## AWS를 이용한 CI / CD
 
 #### 자동화된 지속적 통합 및 지속적 전달 릴리스 워크플로
 
-![20_11_12. codepipeline구조](C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\20_11_12. codepipeline구조.PNG)
+![20_11_12. codepipeline구조](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/20_11_12.%20codepipeline%EA%B5%AC%EC%A1%B0.PNG)
 
 * CodePipeLine에 등록한 Github - master 브랜치에 변경 사항이 생기면 소스코드를 가져옵니다.
 * 수동 승인을 통해 코드를 검토하고 승인 또는 철회합니다.
