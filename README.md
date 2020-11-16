@@ -159,8 +159,8 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 * API-Gateway : 웹사이트의 운영 서버와 DB 연동을 위한 게이트웨이 설정
 * Lambda : RDS 서비스와 연동하여 DB 데이터를 조회
 * RDS(MySQL) : 카페 제품 정보와 사용자 정보 관리
-* CloudWatch : 
-* SNS : 신제품이 출시할 시 해당하는 브랜드 S3 버킷에 사진을 업로드할 시  
+* CloudWatch : 각 브랜드마다 최신 제품 정보를 업데이트(웹 스크래핑) 하기 위한 주기 설정
+* SNS : 신제품이 출시할 시 해당하는 브랜드 S3 버킷에 사진을 업로드할 시  사용자에게 Notify 발생
 * CodePipeLine (Github, Code-commit, 관리자 수동 승인, Code-deploy) : 운영 서버 코드 배포 자동화
 
 #### UI 화면 구성
