@@ -20,6 +20,10 @@
 
 ---
 
+## 애플리케이션 워크 플로우 및 도식화
+
+![service-workflow](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/service-workflow.PNG)
+
 ## 화면 스케치 & 배포
 
 링크 주소 참고 : https://www.caca0.shop/ (AWS 서비스를 이용한 배포)
@@ -28,6 +32,34 @@
 
 * **React.js, AWS Serverless**를 이용한 성분 비교 **SPA (Single Page Application)** 사이트 제작
 * AWS 클라우드 서비스와 자동화(CI / CD) 인프라 구축
+
+## 프로젝트 기획 및 세부 일정
+
+<img align="left" width="700px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\프로젝트 기획안.PNG" alt="프로젝트 기획안"  />
+
+#### 프로젝트 세부 일정 및 간트표
+
+![WBS간트차트](C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\WBS간트차트.PNG)
+
+## 화면 설계
+
+kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img align="right" width="100px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven6.PNG" alt="oven6"/>
+
+
+
+#### 화면 설계 프로토타입
+
+<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven1.PNG" alt="oven1"/>
+
+<img width="600px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven2.PNG" alt="oven2"  />
+
+<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven3.PNG" alt="oven3" />
+
+<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven4.PNG" alt="oven4" />
+
+<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven5.PNG" alt="oven5" />
+
+
 
 ## 프로젝트 주요 기능
 
@@ -74,13 +106,9 @@
 
 * React (FrontEnd)
 
-#### 코드 버전 및 형상 관리
+#### 버전 및 형상 관리
 
 * Git, Github
 * Slack (참조 링크, 코드업로드, 문서 관리 등)
 * WBS (Work Breakdown Structure)
-
-## 서비스 워크 플로우 및 도식화
-
-![service-workflow](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/service-workflow.PNG)
 
