@@ -22,4 +22,4 @@
 
 ## 화면 스케치 & 배포
 
-링크 주소 참고 : https://caca0.shop/ (AWS 서비스를 이용한 배포)
+링크 주소 참고 : https://www.caca0.shop/ (AWS 서비스를 이용한 배포)
