@@ -35,29 +35,29 @@
 
 ## 프로젝트 기획 및 세부 일정
 
-<img align="left" width="700px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\프로젝트 기획안.PNG" alt="프로젝트 기획안"  />
+<img align="left" width="700px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88.PNG"  />
 
 #### 프로젝트 세부 일정 및 간트표
 
-![WBS간트차트](C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\WBS간트차트.PNG)
+![WBS간트차트](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/WBS%EA%B0%84%ED%8A%B8%EC%B0%A8%ED%8A%B8.PNG)
 
 ## 화면 설계
 
-kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img align="right" width="100px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven6.PNG" alt="oven6"/>
+kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img align="right" width="100px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven6.PNG" alt="oven6"/>
 
 
 
 #### 화면 설계 프로토타입
 
-<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven1.PNG" alt="oven1"/>
+<img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven1.PNG" alt="oven1"/>
 
-<img width="600px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven2.PNG" alt="oven2"  />
+<img width="600px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven2.PNG" alt="oven2"  />
 
-<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven3.PNG" alt="oven3" />
+<img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven3.PNG" alt="oven3" />
 
-<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven4.PNG" alt="oven4" />
+<img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven4.PNG" alt="oven4" />
 
-<img width="500px" src="C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\oven5.PNG" alt="oven5" />
+<img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven5.PNG" alt="oven5" />
 
 
 
