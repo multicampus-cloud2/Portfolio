@@ -6,7 +6,7 @@
 
 카카오 서비스를 계획하게 된 이유는
 
-<img align="left" width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/Ingredient%20table.PNG" alt="성분표" />
+<img align="left" width="600px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/Ingredient%20table.PNG" alt="성분표" />
 
 </br></br></br></br></br></br></br>
 
@@ -51,15 +51,35 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 
 <img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven1.PNG" alt="oven1"/>
 
+> 네비게이션 바 - 버튼 클릭시 동적으로 One 페이지에서 변경
+>
+> 광고 배너 - S3 버킷에 있는 광고 이미지 불러오기
+>
+> 광고 배너 변경 버튼 - 버튼 클릭 시 광고 이미지 변경
+
 <img width="600px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven2.PNG" alt="oven2"  />
+
+> 카페 / 음료 / 콤보박스 선택 시 화면 동적으로 변경
 
 <img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven3.PNG" alt="oven3" />
 
+> 음료 이미지 클릭 시, 상세정보와 담기 버튼이 보임
+>
+> 담기 버트 클릭 시, 성분 비교 박스에 들어가서 타 제품과 비교 가능
+
 <img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven4.PNG" alt="oven4" />
+
+> 음료 비교 창 - 모달창으로 구현
+>
+> 음료 2 ~ 3잔을 화면에 출력
+>
+> 브랜드별 현재 위치에서 가장 가까운 위치 확인 가능
 
 <img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven5.PNG" alt="oven5" />
 
-
+> 서비스 소개 작성
+>
+> 개발자 소개 - 이미지 위에 마우스 hover 시, 이름 / instagram / github 주소 확인 가능
 
 ## 프로젝트 주요 기능
 
