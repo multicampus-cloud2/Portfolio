@@ -1,6 +1,6 @@
 # TEAM 얼죽아
 
-#### CACAO : Cafe Caffeine Open
+### CACAO : Cafe Caffeine Open
 
 카카오는 같은 음료라도 카페마다 다른 영양 정보를 조회하고 각자 다른 선호도에 맞게 음료를 골라 먹을 수 있도록 비교할 수 있는 서비스입니다.
 
@@ -26,8 +26,8 @@
 
 ## 프로젝트 목표
 
-* React.js, AWS Serverless를 이용한 성분 비교 SPA (Single Page Application) 사이트 제작
-* AWS 클라우드 서비스와 자동화(CI/CD) 인프라 구축
+* **React.js, AWS Serverless**를 이용한 성분 비교 **SPA (Single Page Application)** 사이트 제작
+* AWS 클라우드 서비스와 자동화(CI / CD) 인프라 구축
 
 ## 프로젝트 주요 기능
 
@@ -53,7 +53,7 @@
 #### 로그인 서비스 및 API
 
 * Auth0(Google, Kakao)
-* KaKao Location API
+* KaKao Location API (현재 위치에서 가까운 매장 찾기)
 
 #### AWS Service
 
@@ -68,7 +68,7 @@
 * RDS(MySQL)
 * CloudWatch
 * SNS
-* CodePipeLine
+* CodePipeLine (Github, Code-commit, 관리자 수동 승인, Code-deploy)
 
 #### UI 화면 구성
 
@@ -76,7 +76,10 @@
 
 #### 코드 버전 및 형상 관리
 
-* Git
-* Github
+* Git, Github
 * Slack (참조 링크, 코드업로드, 문서 관리 등)
 * WBS (Work Breakdown Structure)
+
+## 서비스 워크 플로우 및 도식화
+
+![service-workflow](C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\service-workflow.PNG)
