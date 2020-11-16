@@ -22,4 +22,61 @@
 
 ## 화면 스케치 & 배포
 
-링크 주소 참고 : https://caca0.shop/ (AWS 서비스를 이용한 배포)
+링크 주소 참고 : https://www.caca0.shop/ (AWS 서비스를 이용한 배포)
+
+## 프로젝트 목표
+
+* React.js, AWS Serverless를 이용한 성분 비교 SPA (Single Page Application) 사이트 제작
+* AWS 클라우드 서비스와 자동화(CI/CD) 인프라 구축
+
+## 프로젝트 주요 기능
+
+* 회원가입 및 로그인
+  * 타사 자격증명 플랫폼을 이용한 Auth0 구현 및 사용자 선호 브랜드 지정 후 `AWS-SNS`알림 서비스
+* 신제품 SNS 알림 발송
+  * 사용자가 회원가입할 때 등록한 선호 브랜드를 지정하고 해당 브랜드에서 신제품이 출시될 시 `AWS-SNS` 기능을 통해 사용자가 등록한 핸드폰으로 신제품 알림 문자 발송
+* 제품 상세 조회 및 비교
+  * 각 브랜드 제품들의 영양 정보를 웹 스크래핑으로 취합해서 상품 전체 조회 및 개별 조회 가능
+  * 최소 2개 ~ 최대 3개의 제품을 비교 창에 담아 비슷한 제품들을 시각화 해 정교하게 비교 가능
+* 제품 필터링 기능
+  * 제품의 상세 영양 정보뿐 아니라, 사용자가 원하는 기준을 토대로 순서대로 정렬(오름차순, 내림차순)
+* 비교함에 담은 제품의 브랜드 위치 확인
+  * 브랜드 위치 정보를 `Kakao API`를 이용해, 현재 위치에서 가장 가까운 매장을 알려줌
+
+## 사용 기술
+
+#### 웹 스크래핑
+
+* WEB-Scraping (스타벅스, 할리스, 탐앤탐스, 이디야, 커피빈, 투썸플레이스, 엔제리너스, 빽다방)
+  * 2019년 11월 기준 상위 10개 브랜드를 대상으로 스크래핑
+
+#### 로그인 서비스 및 API
+
+* Auth0(Google, Kakao)
+* KaKao Location API
+
+#### AWS Service
+
+* IAM
+
+* CloudFront
+* Certificate manager
+* Route53
+* S3-bucket
+* API-Gateway
+* Lambda
+* RDS(MySQL)
+* CloudWatch
+* SNS
+* CodePipeLine
+
+#### UI 화면 구성
+
+* React (FrontEnd)
+
+#### 코드 버전 및 형상 관리
+
+* Git
+* Github
+* Slack (참조 링크, 코드업로드, 문서 관리 등)
+* WBS (Work Breakdown Structure)
