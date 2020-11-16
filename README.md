@@ -91,15 +91,15 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 
 #### 엔젤리너스
 
-![WEB-angelinus](C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\WEB-angelinus.PNG)
+![WEB-angelinus](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/WEB-angelinus.PNG)
 
 #### 탐앤탐스
 
-![WEB-tomntoms](C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\WEB-tomntoms.PNG)
+![WEB-tomntoms](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/WEB-tomntoms.PNG)
 
 #### 스크래핑한 결과를 DB에 Import
 
-![WEB-DB임포트](C:\Users\Nick_주성우\OneDrive\바탕 화면\멀티캠퍼스\프로젝트\2.클라우드 활용 프로젝트\img\WEB-DB임포트.PNG)
+![WEB-DB임포트](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/WEB-DB%EC%9E%84%ED%8F%AC%ED%8A%B8.PNG)
 
 ## AWS-IAM를 이용한 그룹 권한 관리
 
