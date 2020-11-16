@@ -37,9 +37,9 @@
 
 <img width="700px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88.PNG"  />
 
-</br></br>
+</br>
 
-#### 프로젝트 세부 일정 및 간트표
+### 프로젝트 세부 일정 및 간트표
 
 ![WBS간트차트](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/WBS%EA%B0%84%ED%8A%B8%EC%B0%A8%ED%8A%B8.PNG)
 
@@ -49,7 +49,7 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 
 
 
-#### 화면 설계 프로토타입
+### 화면 설계 프로토타입
 
 <img width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/oven1.PNG" alt="oven1"/>
 
@@ -85,7 +85,7 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 
 ## 웹 스크래핑을 이용한 음료 제품 정보 데이터 가져오기
 
-#### 써드파티 모듈 사용 목록
+### 써드파티 모듈 사용 목록
 
 * requests, Selenium, BeautifulSoup, sqlalchemy, pandas, numpy, pymysql
 
@@ -116,7 +116,7 @@ kakao oven - https://ovenapp.io/view/nhaTPgzdKBGwJzxT9SXvnfEDKGDHBZPf/sZGR1 <img
 
 ## AWS를 이용한 CI / CD
 
-#### 자동화된 지속적 통합 및 지속적 전달 릴리스 워크플로
+### 자동화된 지속적 통합 및 지속적 전달 릴리스 워크플로
 
 ![20_11_12. codepipeline구조](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/20_11_12.%20codepipeline%EA%B5%AC%EC%A1%B0.PNG)
 
