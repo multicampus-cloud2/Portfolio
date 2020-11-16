@@ -8,7 +8,7 @@
 
 <img align="left" width="500px" src="https://github.com/multicampus-cloud2/Portfolio/blob/master/img/Ingredient%20table.PNG" alt="성분표" />
 
-</br>
+</br></br></br></br></br></br></br>
 
 - 심박 증가, 불면증 등 카페인에 대해 민감한 분들에게 영양 정보를 제공하여 소비자 성향에 맞는 커피를 고를 수 있게 하기 위함이며,
 - 카페마다 구석에 배치한 영양 정보표로 접근성과 가독성이 떨어지는 것을 방지하는 동시에,
