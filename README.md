@@ -82,4 +82,5 @@
 
 ## 서비스 워크 플로우 및 도식화
 
-![service-workflow](C:\Users\Nick_주성우\OneDrive\바탕 화면\지우기\service-workflow.PNG)
+![service-workflow](https://github.com/multicampus-cloud2/Portfolio/blob/master/img/service-workflow.PNG)
+
